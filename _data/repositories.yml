@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cptmacp
+  - R-7951
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
+  - cptmacp/spring-admin
+  - R-7951/docker-dev
+  - cptmacp/quartz-scheduler
   - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cptmacp/SanFrancisco_Fonts
