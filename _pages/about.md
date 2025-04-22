@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>/dev/null</p>
-    <p>Alpha Centurai</p>
-    <p>Bangalore, India</p>
+    <p>RA 14h 39m 37s|Dec -60° 50′ 2″</p>
+    <p>Bengaluru, India</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

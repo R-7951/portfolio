@@ -202,7 +202,7 @@ exclude:
   # - _pages/dropdown.md
   - _pages/news.md
   - _pages/profiles.md
-  - _pages/publications.md
+  # - _pages/publications.md
   - _pages/teaching.md
 
 
@@ -285,7 +285,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papersR.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
